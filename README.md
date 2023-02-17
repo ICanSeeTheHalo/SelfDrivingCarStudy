@@ -1,2 +1,0 @@
-# SelfDrivingCar
-Study
